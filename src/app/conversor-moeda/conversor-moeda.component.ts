@@ -7,4 +7,19 @@ import { Component } from '@angular/core';
 })
 export class ConversorMoedaComponent {
 
+realdolar(){
+
+
+
+
+}
+realeuro(){
+
+
+}
+reallibra(){
+
+  
+}
+
 }
